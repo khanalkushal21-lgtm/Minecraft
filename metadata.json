@@ -1,0 +1,7 @@
+{
+  "name": "Minecraft Nepal Tournaments",
+  "description": "A comprehensive platform for hosting and managing Minecraft tournaments in Nepal, featuring eSewa and Bank Transfer integrations, an admin panel, and player dashboards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
